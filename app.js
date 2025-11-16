@@ -31,7 +31,7 @@ button.addEventListener("click", function (event) {
     console.log("wrong");
     count++;
   }
-  (h2.innerText = "chances you have attended"), count;
+  // (h2.innerText = "chances you have attended"), count;
 });
 // let p1 = document.querySelector("p");
 // p1.classList.add("paragraph");
